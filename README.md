@@ -51,6 +51,9 @@
   - vc_soc.joblib
   - vc_tasks.joblib
 ***
+
+## ТЕЛЕГРАММ ДЛЯ СВЯЗИ:  [@alexBGoPy](https://t.me/alexBGoPy)
+
 ## Разрабатывали:
 - Никнеймы GitHub:
   - [*Sashakrem8320*](https://github.com/Sashakrem8320)
